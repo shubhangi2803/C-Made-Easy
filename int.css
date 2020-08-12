@@ -1,0 +1,208 @@
+.container-fluid{
+    background-image:url("blue1.jpg");
+    border-right-style: solid;
+    border-right-color: black;
+    border-left-style: solid;
+    border-left-color: black;
+}
+
+#head{
+    margin:0px;
+    width:100%;
+    height:120px;
+    border-color: black;
+    border-style:solid;
+    border-left:None;
+    border-right: None;
+
+}
+
+.logo
+{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+
+.name
+{
+    position: absolute;
+    top: 23px;
+    left: 160px;
+    height:70px;
+}
+
+.home {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:1160px;
+    transform: translate(auto, auto);
+}
+
+.intro {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:960px;
+    transform: translate(auto, auto);
+}
+
+.course {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:725px;
+    transform: translate(auto, auto);
+}
+
+.project {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:490px;
+    transform: translate(auto, auto);
+}
+
+.application {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:240px;
+    transform: translate(auto, auto);
+}
+
+.contact {
+    color:aliceblue;
+    font-size:20;
+    border-style: solid;
+    padding:5px 11px 5px 11px;
+    position: absolute;
+    top: 60px;
+    right: 5px;
+    transform: translate(auto, auto);
+}
+
+.about {
+    color:aliceblue;
+    font-size:20;
+    border-style: solid;
+    padding:5px 5px 5px 5px;
+    position: absolute;
+    top: 5px;
+    right:5px;
+    transform: translate(auto, auto);
+}
+
+#name{
+    width:50%;
+    height:200px;
+    position:absolute;
+    top: 150px;
+    left:400px;
+    border-style:solid;
+    border-color:black;
+    border-width:5px;
+    padding:10px 10px 10px 10px;
+}
+.footer{
+    width:100%;
+    height:70px;
+    border-color: black;
+    border-style:solid;
+    position: absolute;
+    top:1600px;
+    right:0px;
+
+}
+.logofoot
+{
+    position: absolute;
+    top: 1607px;
+    left: 20px;
+    height:50px;
+    width:70px;
+}
+.tag{
+    color:aliceblue;
+    font-size:20;
+    position:absolute;
+    top:1609px;
+    left:1220px;
+    transform:translate(auto,auto);
+}
+.pic1{
+    border-style: double;
+    border-color:black;
+    border-width:20px;
+    position: absolute;
+    top:550px;
+    left:80px;
+    height:300px;
+    width:500px;
+}
+.pic2{
+    border-style: double;
+    border-color:black;
+    border-width:20px;
+    position: absolute;
+    top:900px;
+    left:80px;
+    height:300px;
+    width:500px;
+}
+.pic3{
+    border-style: double;
+    border-color:black;
+    border-width:20px;
+    position: absolute;
+    top:1250px;
+    left:80px;
+    height:300px;
+    width:500px;
+}
+.heading{
+  position: absolute;
+  top:550px;
+  left:900px;
+  font: normal normal bold 45px arial;
+}
+.heading2{
+  position: absolute;
+  top:1250px;
+  left:900px;
+  font: normal normal bold 45px arial;
+}
+.link{
+  position: absolute;
+  top:650px;
+  left:900px;
+  font: normal 25px arial;
+}
+.text{
+  padding-right: 40px;
+  position: absolute;
+  top:1000px;
+  left:700px;
+  font: normal 20px arial;
+}
+.text2{
+  padding-right: 40px;
+  position: absolute;
+  top:1350px;
+  left:700px;
+  font: normal 20px arial;
+}
+.text3{
+  padding-right: 40px;
+  position: absolute;
+  top:1450px;
+  left:700px;
+  font: normal 20px arial;
+}

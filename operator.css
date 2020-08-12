@@ -1,0 +1,258 @@
+.container-fluid{
+    background-image:url("blue1.jpg");
+    border-right-style: solid;
+    border-right-color: black;
+    border-left-style: solid;
+    border-left-color: black;
+}
+#head{
+    margin:0px;
+    width:100%;
+    height:120px;
+    border-color: black;
+    border-style:solid;
+    border-left:None;
+    border-right: None;
+
+}
+
+.logo
+{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+.name
+{
+    position: absolute;
+    top: 23px;
+    left: 160px;
+    height:70px;   
+}
+
+.home {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:1160px;
+    transform: translate(auto, auto);
+}
+.intro {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:960px;
+    transform: translate(auto, auto);
+}
+.course {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:725px;
+    transform: translate(auto, auto);
+}
+.project {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:490px;
+    transform: translate(auto, auto);
+}
+.application {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:240px;
+    transform: translate(auto, auto);
+}
+.contact {
+    color:aliceblue;
+    font-size:20;
+    border-style: solid;
+    padding:5px 11px 5px 11px;
+    position: absolute;
+    top: 60px;
+    right: 5px;
+    transform: translate(auto, auto);
+}
+
+.about {
+    color:aliceblue;
+    font-size:20;
+    border-style: solid;
+    padding:5px 5px 5px 5px;
+    position: absolute;
+    top: 5px;
+    right:5px;
+    transform: translate(auto, auto);
+}
+.footer{
+    width:100%;
+    height:65px;
+    border-color: black;
+    border-style:solid;
+    position: absolute;
+    top:1887px;
+    right:0px;
+}
+.logofoot
+{
+    position: absolute;
+    top: 1895px;
+    left: 20px;
+    height:50px;
+    width:70px;
+}
+
+.tag{
+    color:aliceblue;
+    font-size:20;
+    position:absolute;
+    top:1902px;
+    left:1250px;
+    transform:translate(auto,auto);
+}
+.pic1{
+    padding left:30;
+    border-style: double;
+    border-color:black;
+    border-width:20px;
+    padding-left:2px;
+    height:16%;
+    width:30%;
+    position: absolute;
+    top:150px;
+    left:525px;
+}
+.pic2{
+    padding left:30;
+
+    height:60%;
+    width:60%;
+    position: absolute;
+    top:300px;
+    left:55px;
+}
+.pic3{
+    padding left:30;
+    height:40%;
+    width:30%;
+    position: absolute;
+    top:320px;
+    left:990px;
+}
+
+.t1{
+    position: absolute;
+    top:800px;
+}
+.t2{
+    position: absolute;
+    top:800px;
+    left:715px;
+}
+.t3{
+    position: absolute;
+    top:1223px;
+    left:715px;
+    width:720px;
+}
+
+.t4{
+   
+    position: absolute;
+    top:1470px;
+    width:630px;
+    
+}
+
+table.cinereousTable {
+  border: 5px solid #000000;
+  background-color: #D5FFCF;
+  width: 110%;
+  height: 244px;
+  text-align: center;
+}
+table.cinereousTable td, table.cinereousTable th {
+  border: 4px solid #000000;
+  padding: 7px 10px;
+}
+table.cinereousTable tbody td {
+  font-size: 15px;
+}
+table.cinereousTable td:nth-child(even) {
+  background: #E5E5F5;
+}
+table.cinereousTable thead {
+  background: #FFFFFF;
+  background: -moz-linear-gradient(top, #ffffff 0%, #ffffff 66%, #FFFFFF 100%);
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 66%, #FFFFFF 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 66%, #FFFFFF 100%);
+}
+table.cinereousTable thead th {
+  font-size: 17px;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+  border-left: 0px solid #FFFFFF;
+}
+table.cinereousTable thead th:first-child {
+  border-left: none;
+}
+
+table.cinereousTable tfoot td {
+  font-size: 16px;
+}
+table.greenTable {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  border: 5px solid #000000;
+  background-color: #D5FFCF;
+  width: 110%;
+  height: 244px;
+  text-align: center;
+}
+table.greenTable td, table.greenTable th {
+  border: 4px solid #000000;
+  padding: 7px 10px;
+}
+table.greenTable tbody td {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+}
+table.greenTable thead {
+   background: #FFFFFF;
+  background: -moz-linear-gradient(top, #ffffff 0%, #ffffff 66%, #FFFFFF 100%);
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 66%, #FFFFFF 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 66%, #FFFFFF 100%);
+}
+table.greenTable thead th {
+  font-size: 23px;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+  border-left: 0px solid #24943A;
+}
+table.greenTable thead th:first-child {
+  border-left: none;
+}
+
+table.greenTable tfoot td {
+  font-size: 13px;
+}
+table.greenTable tfoot .links {
+  text-align: right;
+}
+table.greenTable tfoot .links a{
+  display: inline-block;
+  background: #FFFFFF;
+  color: #24943A;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
