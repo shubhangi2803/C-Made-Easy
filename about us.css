@@ -1,0 +1,134 @@
+.container-fluid{
+    background-image:url("blue1.jpg");
+    border-right-style: solid;
+    border-right-color: black;
+    border-left-style: solid;
+    border-left-color: black;
+}
+#head{
+    margin:0px;
+    width:100%;
+    height:120px;
+    border-color: black;
+    border-style:solid;
+    border-left:None;
+    border-right: None;
+
+}
+
+.logo
+{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+.name
+{
+    position: absolute;
+    top: 23px;
+    left: 160px;
+    height:70px;   
+}
+
+.home {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:1160px;
+    transform: translate(auto, auto);
+}
+.intro {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:960px;
+    transform: translate(auto, auto);
+}
+.course {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:725px;
+    transform: translate(auto, auto);
+}
+.project {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:490px;
+    transform: translate(auto, auto);
+}
+.application {
+    color:aliceblue;
+    font-size:20;
+    position: absolute;
+    top: 40px;
+    right:240px;
+    transform: translate(auto, auto);
+}
+.contact {
+    color:aliceblue;
+    font-size:20;
+    border-style: solid;
+    padding:5px 11px 5px 11px;
+    position: absolute;
+    top: 60px;
+    right: 5px;
+    transform: translate(auto, auto);
+}
+
+.about {
+    color:aliceblue;
+    font-size:20;
+    border-style: solid;
+    padding:5px 5px 5px 5px;
+    position: absolute;
+    top: 5px;
+    right:5px;
+    transform: translate(auto, auto);
+}
+.footer{
+    width:100%;
+    height:65px;
+    border-color: black;
+    border-style:solid;
+    position: absolute;
+    top:687px;
+    right:0px;
+}
+.logofoot
+{
+    position: absolute;
+    top: 695px;
+    left: 20px;
+    height:50px;
+    width:70px;
+}
+
+.tag{
+    color:aliceblue;
+    font-size:20;
+    position:absolute;
+    top:702px;
+    left:1250px;
+    transform:translate(auto,auto);
+}
+.pic{
+    position: absolute;
+    top:150px;
+    left:900px;
+    height:500px;
+    width:500px;
+}
+.textt{
+    font-size:25;
+    position:absolute;
+    top:150px;
+    left:50px;
+    transform:translate(auto,auto);
+}
